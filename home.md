@@ -11,7 +11,7 @@
 :mag: [software](/software)
 
 -----
-# :warning: Roadmap Wiki42 :warning:
+# Roadmap Wiki42
 
 ## todo content
 
