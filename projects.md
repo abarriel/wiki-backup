@@ -8,4 +8,4 @@
 
 
 ## Système
-- [ft_linux](/projects/ft_linux) introduction à la compilation de kernel, partition hardware et gestion de paquets
+- [ft_linux](/projects/ft_linux) introduction à la compilation de kernel, partition hardware et compilation de paquets
