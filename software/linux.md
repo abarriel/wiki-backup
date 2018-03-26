@@ -48,7 +48,7 @@ quelque points clefs:
 
 [voidlinux](https://www.voidlinux.eu/) est une distribution minimaliste
 
-- void utilise `runit` commit Init System et pas `systemd`
+- init géré par `runit`
 - supporte 2 libc: `musl` et la `glibc`
 - rolling release
 - package manager: `XBPS`
