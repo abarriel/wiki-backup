@@ -1,3 +1,5 @@
+![42 Logo](/uploads/42-logo.png "42 Logo"){.pagelogo}
+
 Le wiki est désormais en beta publique, aucune date de release prevue
 
 Toute discussion technique sur slack, demander une invitation à @abarriel @wescande ou @jhalford
