@@ -29,6 +29,10 @@ quelque points clefs:
 
 ## gentoo
 [gentoo](https://gentoo.org/) est une distribution GNU/Linux dite source. Elle a été conçue pour être modulaire, portable et optimisée pour le matériel de l'utilisateur. Ainsi, la majeure partie des programmes devront être compilés à partir du code source. Toutefois, certains logiciels disponibles sous forme de paquets précompilés pour différentes architectures peuvent également être utilisés. Ceci est géré grâce au logiciel Portage de Gentoo Linux.
+
+quelque points clefs:
+- Pas de botnet systemd
+- `portage` est le gestionnaire de 'paquet'
 ## debian
 
 # Découvrir linux
