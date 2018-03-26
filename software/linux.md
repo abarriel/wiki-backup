@@ -2,8 +2,6 @@
 
 <!-- TITLE: Linux -->
 
-![Tux](/uploads/tux.png "Tux"){.align-right}
-
 chan slack `#linux` pour participer à la discussion
 # Qu'est-ce que Linux ?
 Il s'agit d'un système d'exploitation libre qui fonctionne sur pratiquement tous les types d'architectures actuelles. On peut notamment retrouver des noyaux linux, évidemment sur des stations informatiques comme PC, mac, sun et d'autres mais aussi sur des appareils de la vie courante comme les téléphones, les micro-ondes… Chacun de ces noyaux reposant sur une base commune disponible librement sur http://www.kernel.org.
