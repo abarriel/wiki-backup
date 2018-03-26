@@ -3,11 +3,11 @@
 
 # Les clubs/assos actifs du campus
 - [ASN](/campus-paris/clubs/asn) - logiciel libre, securité et lockpicking
+- [Art 42](/campus-paris/clubs/art42) - ?
 - [42 genesys](/campus-paris/clubs/42genesys) - association "entreprise"
 - [42 AI](/campis-paris/clubs/42ai) - groupe de reflexion sur l'intelligence artificielle
 - [42 entrepreneurs](/campus-paris/clubs/42entrepreneurs) - l'entreprenariat à 42
 - [42 zen](/campus-paris/clubs/42zen) - ?
-- [Art 42](/campus-paris/clubs/art42) - ?
 
 ### clubs sans page
 
