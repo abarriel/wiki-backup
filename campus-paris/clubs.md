@@ -2,7 +2,7 @@
 <!-- SUBTITLE: A quick summary of Clubs -->
 
 # Les clubs/assos actifs du campus
-Ce serait bien de cataloguer tous les clubs actifs mais je sais pas bien comment m'y prendre, soit on fait le tour 1 par 1 soit on attends la release
+Ce serait bien de cataloguer tous les clubs actifs mais je sais pas bien comment m'y prendre, soit on fait le tour 1 par 1 soit on attend la release
 
 42 Self Defense: sur slack a `#42-selfdefense` je sais pas qui le gere faudra demander
 42 Entrepreneurs: sur slack `#42_entrepreneurs`
