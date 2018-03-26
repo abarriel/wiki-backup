@@ -5,6 +5,7 @@
 
 sur slack:
 - `#asn-`
+- `#asn-libre`
 - `#asn-secu`
 - `#asn-lockpicking`
 
