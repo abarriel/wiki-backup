@@ -26,13 +26,13 @@ une [liste complete](https://en.wikipedia.org/wiki/List_of_Linux_distributions) 
 ## archlinux 
 ![Archlinux](/uploads/archlinux.png "Archlinux"){.align-right}
 
-
 [archlinux](https://www.archlinux.org/) est une distribution simpliste mais puissante qui se concentre sur l'architecture `x86_64`, vous pourrez trouver toutes les informations necessaires à l'installation et utilisation sur leur [wiki](https://wiki.archlinux.org/)
 
 quelque points clefs:
 - optimisé pour l'architecture `x86_64`
-- `pacman` est le gestionnaire de paquet
+- `pacman` est le gestionnaire de paquets
 - `systemd` par défault
+- rolling release
 
 ## gentoo
 ![Gentoo Horizontal](/uploads/gentoo-horizontal.png "Gentoo Horizontal"){.align-right}
@@ -42,6 +42,14 @@ quelque points clefs:
 quelque points clefs:
 - Systemd? No thanks, 100% Poettering-free software
 - `portage` est le gestionnaire de 'paquet'
-## debian
 
-# Découvrir linux
+## voidlinux
+![Void Linux Logo Svg](/uploads/void-linux-logo-svg.png "Void Linux Logo Svg"){.align-right}
+
+[voidlinux](https://www.voidlinux.eu/) est une distribution
+
+- void utilise `runit` commit Init System et pas `systemd`
+- supporte 2 libc: `musl` et la `glibc`
+- rolling release
+- package manager: `XBPS`
+- remplace `openSSL` par `libreSSL`
