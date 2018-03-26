@@ -3,8 +3,9 @@
 
 [Page Officielle](https://www.rust-lang.org/en-US/)
 [Page Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_language))
-# Installation
-`brew installe rustup-init`, [rustup](https://rustup.rs/) est le gestionnaire de version officiel de rust\
 
+Le Rust est un language système performant, safe et moderne. À l'ecole certains l'utilisent pour les projets d'algorithmie, de système mais aussi en embarqué pour le cursus electronique.
+# Installation
+`brew install rustup-init`, [rustup](https://rustup.rs/) est le gestionnaire de version officiel de rust
 # Events
-- Rust Meetup paris le 03/04/18 https://www.meetup.com/Rust-Paris/?_cookie-check=cWqum-y1dt8Zp7i6
+- `03/04/18` Rust Meetup Paris https://www.meetup.com/Rust-Paris/?_cookie-check=cWqum-y1dt8Zp7i6
