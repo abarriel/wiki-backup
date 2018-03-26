@@ -28,7 +28,6 @@ une [liste complete](https://en.wikipedia.org/wiki/List_of_Linux_distributions) 
 
 [archlinux](https://www.archlinux.org/) est une distribution simpliste mais puissante qui se concentre sur l'architecture `x86_64`, vous pourrez trouver toutes les informations necessaires à l'installation et utilisation sur leur [wiki](https://wiki.archlinux.org/)
 
-quelque points clefs:
 - optimisé pour l'architecture `x86_64`
 - `pacman` est le gestionnaire de paquets
 - `systemd` par défault
@@ -39,7 +38,6 @@ quelque points clefs:
 
 [gentoo](https://gentoo.org/) est une distribution GNU/Linux dite source. Elle a été conçue pour être modulaire, portable et optimisée pour le matériel de l'utilisateur. Ainsi, la majeure partie des programmes devront être compilés à partir du code source. Toutefois, certains logiciels disponibles sous forme de paquets précompilés pour différentes architectures peuvent également être utilisés. Ceci est géré grâce au logiciel Portage de Gentoo Linux.
 
-quelque points clefs:
 - Systemd? No thanks, 100% Poettering-free software
 - `portage` est le gestionnaire de 'paquet'
 
