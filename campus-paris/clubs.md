@@ -9,7 +9,6 @@
 
 Ce serait bien de cataloguer tous les clubs actifs mais je sais pas bien comment m'y prendre, soit on fait le tour 1 par 1 soit on attend la release
 
-42 Self Defense: sur slack a `#42-selfdefense` je sais pas qui le gere faudra demander
 42 Entrepreneurs: sur slack `#42_entrepreneurs` ou @pgerbaud/@kprimice
 42 e-sport: je pense qu'ils sont actifs mais le channel slack est mort `#e-sport42`
 42 AI: slack `#42_ai`
