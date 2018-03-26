@@ -24,7 +24,7 @@ Mais l'on parle fréquemment du système Linux comme étant l'ensemble. En effet
 une [liste complete](https://en.wikipedia.org/wiki/List_of_Linux_distributions) des distributions est disponible, vous pouvez aussi compiler la votre avec le projet [ft_linux](/projects/ft_linux) !
 
 ## archlinux 
-![Archlinux](/uploads/archlinux.png "Archlinux")
+![Archlinux](/uploads/archlinux.png "Archlinux"){.align-right}
 
 [archlinux](https://www.archlinux.org/) est une distribution simpliste mais puissante qui se concentre sur l'architecture `x86_64`, vous pourrez trouver toutes les informations necessaires à l'installation et utilisation sur leur [wiki](https://wiki.archlinux.org/)
 
