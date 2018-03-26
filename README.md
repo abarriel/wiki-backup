@@ -1,3 +1,7 @@
+Le wiki est désormais en beta publique, aucune date de release prevue
+
+Toute discussion technique sur slack, demander une invitation à @abarriel @wescande ou @jhalford
+
 -----
 
 :books: [projets](/Projects)
@@ -11,7 +15,7 @@
 :mag: [software](/software)
 
 -----
-# :warning: Roadmap Wiki42 :warning:
+# Roadmap Wiki42
 
 ## todo content
 
@@ -36,7 +40,7 @@
 
 - parser markdown maison
 	- [ ] @login redirige vers l'intra
-- [ ] login omniatuh avec l'intra
+- [X] login omniatuh avec l'intra 42
 - [ ] historique des edits --> `wiki.js` 2.0 deja dans leur roadmap
 - [ ] "edited by @login" en haut de page
 - [ ] remplacer le logo `wiki.js` par un logo 42? sur ce genre de page => [test](/test)
