@@ -10,7 +10,7 @@
 - [42 self defense](/campus-paris/clubs/42selfdefense) - atelier selfdefense hebdomadaire
 ## autres
 - [Art 42](/campus-paris/clubs/art42) - ?
-- [42 genesys](/campus-paris/clubs/42genesys) - association "entreprise"
+- [42 genesys](/campus-paris/clubs/42genesys) - ?
 - [42 entrepreneurs](/campus-paris/clubs/42entrepreneurs) - l'entreprenariat à 42
 - [42 zen](/campus-paris/clubs/42zen) - ?
 
