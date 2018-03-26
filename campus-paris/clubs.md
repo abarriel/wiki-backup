@@ -6,8 +6,9 @@
 - [ASN](/campus-paris/clubs/asn) - logiciel libre, securité et lockpicking
 - [42 AI](/campis-paris/clubs/42ai) - groupe de reflexion sur l'intelligence artificielle
 
-## sport
+## sport & jeux
 - [42 self defense](/campus-paris/clubs/42selfdefense) - atelier selfdefense hebdomadaire
+- je crois qu'il y a une asso jeux de roles, jeux de plateaux etc...
 ## autres
 - [Art 42](/campus-paris/clubs/art42) - ?
 - [42 genesys](/campus-paris/clubs/42genesys) - ?
