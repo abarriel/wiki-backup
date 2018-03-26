@@ -26,6 +26,7 @@ une [liste complete](https://en.wikipedia.org/wiki/List_of_Linux_distributions) 
 ## archlinux 
 ![Archlinux](/uploads/archlinux.png "Archlinux"){.align-right}
 
+
 [archlinux](https://www.archlinux.org/) est une distribution simpliste mais puissante qui se concentre sur l'architecture `x86_64`, vous pourrez trouver toutes les informations necessaires à l'installation et utilisation sur leur [wiki](https://wiki.archlinux.org/)
 
 quelque points clefs:
@@ -34,7 +35,7 @@ quelque points clefs:
 - `systemd` par défault
 
 ## gentoo
-![Gentoo Signet](/uploads/gentoo-signet.png "Gentoo Signet")
+![Gentoo Horizontal](/uploads/gentoo-horizontal.png "Gentoo Horizontal"){.align-right}
 
 [gentoo](https://gentoo.org/) est une distribution GNU/Linux dite source. Elle a été conçue pour être modulaire, portable et optimisée pour le matériel de l'utilisateur. Ainsi, la majeure partie des programmes devront être compilés à partir du code source. Toutefois, certains logiciels disponibles sous forme de paquets précompilés pour différentes architectures peuvent également être utilisés. Ceci est géré grâce au logiciel Portage de Gentoo Linux.
 
