@@ -38,6 +38,7 @@ Toute discussion technique sur slack, demander une invitation à @abarriel @wesc
 
 - les partenariats, HEC etc
 
+-les campus (Fremont)/ les ecoles cousines (101...)
 ## todo technique
 
 - parser markdown maison
