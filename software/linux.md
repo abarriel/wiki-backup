@@ -1,3 +1,5 @@
+![Tux](/uploads/tux.png "Tux"){.pagelogo}
+
 <!-- TITLE: Linux -->
 
 ![Tux](/uploads/tux.png "Tux"){.align-right}
