@@ -46,10 +46,9 @@ quelque points clefs:
 ## voidlinux
 ![Void Linux Logo Svg](/uploads/void-linux-logo-svg.png "Void Linux Logo Svg"){.align-right}
 
-[voidlinux](https://www.voidlinux.eu/) est une distribution
+[voidlinux](https://www.voidlinux.eu/) est une distribution minimaliste
 
 - void utilise `runit` commit Init System et pas `systemd`
 - supporte 2 libc: `musl` et la `glibc`
 - rolling release
 - package manager: `XBPS`
-- remplace `openSSL` par `libreSSL`
