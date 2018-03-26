@@ -14,6 +14,10 @@ Ce serait bien de cataloguer tous les clubs actifs mais je sais pas bien comment
 42 e-sport: je pense qu'ils sont actifs mais le channel slack est mort `#e-sport42`
 42 AI: slack `#42_ai`
 42 genesys: `#42genesys` demander à @thgiraud askip
+42zen
+
++ art42 et mediateurs culturels
+
 
 
 Il y a pas mal de channels slacks de clubs qui ont l'air mort aussi, difficile de savoir lesquels sont actifs
