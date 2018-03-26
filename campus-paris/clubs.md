@@ -2,9 +2,13 @@
 <!-- SUBTITLE: A quick summary of Clubs -->
 
 # Les clubs/assos actifs du campus
+## technique
 - [ASN](/campus-paris/clubs/asn) - logiciel libre, securité et lockpicking
 - [42 AI](/campis-paris/clubs/42ai) - groupe de reflexion sur l'intelligence artificielle
 
+## sport
+- [42 self defense](/campus-paris/clubs/42selfdefense) - atelier selfdefense hebdomadaire
+## autres
 - [Art 42](/campus-paris/clubs/art42) - ?
 - [42 genesys](/campus-paris/clubs/42genesys) - association "entreprise"
 - [42 entrepreneurs](/campus-paris/clubs/42entrepreneurs) - l'entreprenariat à 42
