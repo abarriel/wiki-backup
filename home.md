@@ -1,3 +1,7 @@
+Le wiki est désormais en beta publique, aucune date de release prevue
+
+Toute discussion technique sur slack, demander une invitation à @abarriel @wescande ou @jhalford
+
 -----
 
 :books: [projets](/Projects)
