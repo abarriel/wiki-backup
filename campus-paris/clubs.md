@@ -3,6 +3,7 @@
 
 # Les clubs/assos actifs du campus
 - [ASN](/campus-paris/clubs/asn) - logiciel libre, sécurité et lockpicking
+- [42 genesys](/campus-paris/clubs/42genesys) - association "entreprise"
 
 ### clubs sans page
 
