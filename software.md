@@ -7,13 +7,17 @@ Malheureusement le [iSCSI](https://en.wikipedia.org/wiki/ISCSI) de l'école est 
 
 ## Editeurs de texte
 - [ ] [vim](/software/vim)
-- [ ] ~~[emacs](/software/emacs)~~
+- [ ] [emacs](/software/emacs)
 ## tools
-- [x] [make](/software/make)
 - [ ] [git](/software/git)
 - [ ] [tmux](/software/tmux)
-- [ ] [gdb](/software/gdb)
-- [ ] [gcc](/software/gcc)
+- build
+	- [ ] [gcc](/software/gcc)
+  - [x] [make](/software/make)
+- debugging / profiling
+	- [ ] [gdb](/software/gdb)
+	- [ ] [valgrind](/software/valgrind)
+
 ## OS
 - [ ] [macOs](/software/macos) **<---- gros todo la page macos etant donné que c'est l'os de base a l'ecole**
 - [x] [linux](/software/linux)
@@ -21,13 +25,12 @@ Malheureusement le [iSCSI](https://en.wikipedia.org/wiki/ISCSI) de l'école est 
 ## Languages
 - [ ] [C](/software/C)
 - [ ] [Rust](/software/rust)
-## Virtualisation
+## Virtualisation / containerisation
 - [ ] [virtualbox](/software/virtualbox)
 - [ ] [vmware](/software/vmware)
-- [ ] [vagrant](/software/vagrant) <---- @donovan c'est pour toi
+- [ ] [vagrant](/software/vagrant) - virtualbox/vmware wrapper
 - [x] [qemu](/software/qemu)
-## Containerisation
-- [ ] [docker](/software/docker)
+- [ ] [docker](/software/docker) - linux container daemon
 ## Systems
 - [] [Unix](/software/unix)
 - [] [Microsoft Windows](/software/windaube)
