@@ -1,8 +1,9 @@
 <!-- TITLE: Rust -->
-<!-- SUBTITLE: A quick summary of Rust -->
 
 [Page Officielle](https://www.rust-lang.org/en-US/)
 [Page Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_language))
+
+slack `#rust`
 
 Le Rust est un language système performant, safe et moderne. À l'ecole certains l'utilisent pour les projets d'algorithmie, de système mais aussi en embarqué pour le cursus electronique.
 # Installation
