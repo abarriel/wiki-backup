@@ -7,6 +7,8 @@ slack `#rust`
 
 Le Rust est un language système performant, safe et moderne. À l'ecole certains l'utilisent pour les projets d'algorithmie, de système mais aussi en embarqué pour le cursus electronique.
 # Installation
-`brew install rustup-init`, [rustup](https://rustup.rs/) est le gestionnaire de version officiel de rust
+[rustup](https://rustup.rs/) est le gestionnaire de version officiel de rust
+
+`brew install rustup` sur macOs 
 # Events
 - `03/04/18` Rust Meetup Paris https://www.meetup.com/Rust-Paris/?_cookie-check=cWqum-y1dt8Zp7i6
