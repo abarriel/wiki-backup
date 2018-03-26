@@ -1,6 +1,6 @@
 <!-- TITLE: Linux -->
 
-![Tux](/uploads/tux.png "Tux")
+![Tux](/uploads/tux.png "Tux"){.align-right}
 
 chan slack `#linux` pour participer à la discussion
 # Qu'est-ce que Linux ?
