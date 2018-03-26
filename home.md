@@ -1,4 +1,4 @@
-** Bienvenue! ** le wiki est en beta publique
+**Bienvenue!** le wiki est en beta publique
 
 -----
 
