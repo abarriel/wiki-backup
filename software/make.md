@@ -25,7 +25,7 @@ all :
 (cf https://www.gnu.org/software/make/manual/html_node/MAKE-Variable.html pour plus d'info sur `$(MAKE)` )
 ## Gestion des dépendances
 #### Pourquoi ?
-La gestion des dépendances est utiles pour recompiler uniquement les binaires qui le nécessitent.
+La gestion des dépendances est utiles pour recompiler uniquement les binaires qui le nécessitent, sans faire appel a un `make re` long et fastidieux.
 > Ex:
 > Je make une mini libft, puis je modifie str.h qui est inclus par strlen.c, strcat.c mais pas atoi.c. Je relance make.
 > Si les dépendances ne sont pas gérées, il ne se passe rien. :warning:
