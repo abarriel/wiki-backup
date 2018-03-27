@@ -6,7 +6,12 @@ Toute discussion technique sur slack, demander une invitation à @abarriel @wesc
 
 -----
 
-[:books: projets](/Projects) [:mag: software](/software){.align-right}
+[:books: projets](/Projects)
+
+
+-----
+
+[:mag: software](/software){.align-center}
 
 -----
 
