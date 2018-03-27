@@ -6,15 +6,11 @@ Toute discussion technique sur slack, demander une invitation à @abarriel @wesc
 
 -----
 
-[:books: projets](/Projects) [:mag: software](/software){.align-center}
+[:books: projets](/Projects) [:mag: software](/software){.align-right}
 
 -----
 
 :soccer: [clubs et associations](/campus-paris/clubs)
-
------
-
-1. :mag: [software](/software)
 
 -----
 # Roadmap Wiki42
