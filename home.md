@@ -6,7 +6,7 @@ Toute discussion technique sur slack, demander une invitation à @abarriel @wesc
 
 -----
 
-:books: [:mag: projets](/Projects){.align-right}
+[:books: projets](/Projects) [:mag: software](/software){.align-right}
 
 -----
 
@@ -14,7 +14,7 @@ Toute discussion technique sur slack, demander une invitation à @abarriel @wesc
 
 -----
 
-:mag: [software](/software)
+1. :mag: [software](/software)
 
 -----
 # Roadmap Wiki42
