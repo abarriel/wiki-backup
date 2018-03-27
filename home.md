@@ -6,7 +6,7 @@ Toute discussion technique sur slack, demander une invitation à @abarriel @wesc
 
 -----
 
-:books: [projets](/Projects)
+:books: [projets](/Projects){.align-right}
 
 -----
 
