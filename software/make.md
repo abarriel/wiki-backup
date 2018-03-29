@@ -62,9 +62,9 @@ $(OBJ_DIR) :
 
 $(OBJ_DIR)%.o :	$(SRC_DIR)%.c | $(OBJ_DIR)
 ```
-> Mais dis moi Jamy c'est quoi ce `|` dans ton Makefile ?
-> Bonne question Fred ! Il s'agit d'un pré-requis **order-only**. La règle est appelé seulement si le fichier n'existe pas. Dans le cas où le fichier existe (ici le dossier objs), on ne regarde pas le timestamp
-> Merci Jamy !
+> - Mais dis moi Jamy c'est quoi ce `|` dans ton Makefile ?
+> - Bonne question Fred ! Il s'agit d'un pré-requis **order-only**. La règle est appelé seulement si le fichier n'existe pas. Dans le cas où le fichier existe (ici le dossier objs), on ne regarde pas le timestamp
+> - Merci Jamy !
 > FYI: https://www.gnu.org/software/make/manual/html_node/Prerequisite-Types.html
 
 Il est possible d'améliorer le fonctionnement en:
