@@ -65,7 +65,7 @@ $(OBJ_DIR)%.o :	$(SRC_DIR)%.c | $(DIR)
 	$(CC) -c $< -o $@
 ```
 
-:warning: Si vous avez une gestion des dépendances, il faut modifier la ligne d'include pour qu'elle soit la suivante : `-include $(OBJS:.c=.d)` :warning:
+:warning: Si vous avez une gestion des dépendances, il faut modifier la ligne d'include pour qu'elle soit la suivante : `-include $(OBJS:.o=.d)` :warning:
 
 > - Mais dis moi Jamy c'est quoi ce `|` dans ton Makefile ?
 > - Bonne question Fred ! Il s'agit d'un pré-requis **order-only**. La règle est appelé seulement si le fichier n'existe pas. Dans le cas où le fichier existe (ici tous les dossiers et sous-dossiers objs), on ne regarde pas le timestamp.
