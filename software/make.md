@@ -39,8 +39,38 @@ La doc qui va bien: http://make.mad-scientist.net/papers/advanced-auto-dependenc
 SRCS = foo.c bar.c ...
 
 %.o: %.c
-	@$(CC) -MMD -c $< -o $@
+	$(CC) -MMD -c $< -o $@
 
 -include $(SRCS:.c=.d)
 ```
+## Arborescence des sources
+Il est appréciable d'avoir ses .o (et .d si vous avez suivi la gestion de dépendances) séparés des .c. Voci comment avoir la même arborescence de fichiers dans le objs que dans srcs.
 
+```
+SRCS = foo.c foo/bar.c foo/foo2/foo.c ...
+SRC_DIR = srcs/
+OBJ_DIR = objs/
+
+OBJS		=	$(addprefix $(OBJ_DIR), $(SRCS:.c=.o))
+
+$(NAME) :		$(OBJ_DIR) $(OBJS)
+	[...]
+
+$(OBJ_DIR) :
+	mkdir -p $(OBJ_DIR)
+	mkdir -p $(dir $(OBJS))
+
+$(OBJ_DIR)%.o :	$(SRC_DIR)%.c | $(OBJ_DIR)
+```
+> Mais dis moi Jamy c'est quoi ce `|` dans ton Makefile ?
+> Bonne question Fred ! Il s'agit d'un pré-requis **order-only**. La règle est appelé seulement si le fichier n'existe pas. Dans le cas où le fichier existe (ici le dossier objs), on ne regarde pas le timestamp
+> Merci Jamy !
+> FYI: https://www.gnu.org/software/make/manual/html_node/Prerequisite-Types.html
+
+Il est possible d'améliorer le fonctionnement en:
+* filtrant les sous-dossiers objs
+* filtrant les sous-dossiers objs
+* permettant l'ajout à la volée de dossiers aux sources (nécessite un `make re` dans la config de l'exemple)
+## Divers
+il peut être judicieux de mettre le Makefile en dépendances des règles de compilation. Ainsi, on assure qu'un changement manuel dans le Makefile sera immédiatement répercuté. Cela se fait de la façon suivante :
+> `%.o: %.c Makefile`
