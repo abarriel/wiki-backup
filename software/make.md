@@ -44,7 +44,7 @@ SRCS = foo.c bar.c ...
 -include $(SRCS:.c=.d)
 ```
 ## Arborescence des sources
-Il est appréciable d'avoir ses .o (et .d si vous avez suivi la gestion de dépendances) séparés des .c. Voci comment avoir la même arborescence de fichiers dans le objs que dans srcs.
+Il est appréciable d'avoir ses **.o** (et **.d** si vous avez suivi la gestion de dépendances) séparés des **.c**. Voci comment avoir la même arborescence de fichiers dans le objs que dans srcs.
 
 ```
 SRCS    = foo.c bar.c foo/bar.c foo/foo2/foo.c ...
