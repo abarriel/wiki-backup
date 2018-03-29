@@ -15,7 +15,11 @@ Make dispose d'une option `-j [jobs], --jobs[=jobs]`. Le paramètre de l'option 
 ### Méthode 1: Utilisation basique
 Lancer la commande `make -j` dans le dossier courant à la place de `make`. (pour automatiser, il est possible de set la variable d'environnement `MAKEFLAGS`)
 Pour que ça fonctionne, il faut que les dépendances soit correctement gérés, notament dans l'appel de sous-makefile.
-### Méthode 2: Utilisation intégré au makefile
+> :warning: modification de la règle  `make re`:
+> Souvent on voit la règle de la façon suivante: `re: fclean all`.
+> Cela peut poser problème dans le cas d'un `make -j re` , puisque all va être appelé en concurrence avec fclean.
+> Il faut donc modifier la règle re, pour que fclean soit en pré-requis, et appeler all dans l'execution du makefile. Sinon, utilisez la méthode 2
+### Méthode 2: Utilisation intégré au makefile (recommandée)
 Cette méthode permet de conserver l'appel du makefile sur `make`, sans y ajouter `-j`.
 Modifiez la règle all comme suit:
 ```
@@ -23,7 +27,8 @@ all :
 	$(MAKE) -C $(LIBFT_DIR)
 	$(MAKE) -j $(NAME)
 ```
-(cf https://www.gnu.org/software/make/manual/html_node/MAKE-Variable.html pour plus d'info sur `$(MAKE)` )
+>  plus d'info sur `$(MAKE)` https://www.gnu.org/software/make/manual/html_node/MAKE-Variable.html
+
 ## Gestion des dépendances
 #### Pourquoi ?
 La gestion des dépendances est utiles pour recompiler uniquement les binaires qui le nécessitent, sans faire appel a un `make re` long et fastidieux.
@@ -76,6 +81,7 @@ $(OBJ_DIR)%.o: $(SRC_DIR)%.c | $(DIR)
 > - Pré-requis: https://www.gnu.org/software/make/manual/html_node/Prerequisite-Types.html
 > - Utilisation de sort: https://www.gnu.org/software/make/manual/html_node/Text-Functions.html#index-sorting-words
 ## Divers
+### Dépendance makefile
 il peut être judicieux de mettre le Makefile en dépendances des règles de compilation. Ainsi, on assure qu'un changement manuel dans le Makefile sera immédiatement répercuté. Cela se fait de la façon suivante :
 ```
 $(NAME): $(OBJS) Makefile
@@ -83,3 +89,4 @@ $(NAME): $(OBJS) Makefile
 %.o: %.c Makefile
 	[...]
 ```
+### Dépendance makefile
