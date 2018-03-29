@@ -47,11 +47,11 @@ SRCS = foo.c bar.c ...
 Il est appréciable d'avoir ses .o (et .d si vous avez suivi la gestion de dépendances) séparés des .c. Voci comment avoir la même arborescence de fichiers dans le objs que dans srcs.
 
 ```
-SRCS = foo.c foo/bar.c foo/foo2/foo.c ...
+SRCS    = foo.c foo/bar.c foo/foo2/foo.c ...
 SRC_DIR = srcs/
 OBJ_DIR = objs/
 
-OBJS		=	$(addprefix $(OBJ_DIR), $(SRCS:.c=.o))
+OBJS    = $(addprefix $(OBJ_DIR), $(SRCS:.c=.o))
 
 $(NAME) :		$(OBJ_DIR) $(OBJS)
 	[...]
