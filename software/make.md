@@ -76,4 +76,9 @@ $(OBJ_DIR)%.o :	$(SRC_DIR)%.c | $(DIR)
 > - Utilisation de sort: https://www.gnu.org/software/make/manual/html_node/Text-Functions.html#index-sorting-words
 ## Divers
 il peut être judicieux de mettre le Makefile en dépendances des règles de compilation. Ainsi, on assure qu'un changement manuel dans le Makefile sera immédiatement répercuté. Cela se fait de la façon suivante :
-> `%.o: %.c Makefile`
+```
+$(NAME) :		$(OBJS) Makefile
+	[...]
+%.o: %.c Makefile
+	[...]
+```
