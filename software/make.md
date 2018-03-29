@@ -8,6 +8,7 @@ Un super poste sur le forum: https://forum.intra.42.fr/topics/85/messages?page=1
 Si vous avez l'âme d'un warrior: https://www.gnu.org/software/make/manual/make.html
 
 Cette page ne reviens pas sur ces notions de bases. Vous devriez déjà être capable de faire un Makefile basique, qui ne relink pas (y compris sur l'affichage), et qui inclut les règles de bases (all, $(NAME), clean, fclean, re)
+Si vous avez un doute sur `$@`, `$^`, `$<`... https://www.gnu.org/software/make/manual/html_node/Automatic-Variables.html
 # Bonnes pratiques
 ## Accélerer la compilation
 Make dispose d'une option `-j [jobs], --jobs[=jobs]`. Le paramètre de l'option correspond au nombre de jobs et est facultatif. 
@@ -56,7 +57,7 @@ OBJS    = $(addprefix $(OBJ_DIR), $(SRCS:.c=.o))
 DIR     = $(sort $(dir $(OBJS)))
 
 $(NAME): $(OBJS)
-	$(CC) -c $< -o $@
+	$(CC) -c $^ -o $@
 
 $(DIR):
 	mkdir -p $@
