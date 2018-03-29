@@ -28,9 +28,9 @@ all :
 La gestion des dépendances est utiles pour recompiler uniquement les binaires qui le nécessitent, sans faire appel a un `make re` long et fastidieux.
 > Ex:
 > Je make une mini libft, puis je modifie str.h qui est inclus par strlen.c, strcat.c mais pas atoi.c. Je relance make.
-> Si les dépendances ne sont pas gérées, il ne se passe rien. :warning:
-> Si les dépendances sont mal gérées, les trois .c et libft.a vont etre recompilés y compris atoi.c qui n'en a pas besoin. :snail:
-> Si les dépendances sont correctement gérées, strlen.c et stcat.c sont recompilés, mais pas atoi.c. libft.a est aussi recompilée. :thumbsup:
+> - Si les dépendances ne sont pas gérées, il ne se passe rien. :warning:
+> - Si les dépendances sont mal gérées, les trois .c et libft.a vont etre recompilés y compris atoi.c qui n'en a pas besoin. :snail:
+> - Si les dépendances sont correctement gérées, strlen.c et stcat.c sont recompilés, mais pas atoi.c. libft.a est aussi recompilée. :thumbsup:
 
 #### Tout savoir: 
 La doc qui va bien: http://make.mad-scientist.net/papers/advanced-auto-dependency-generation/
@@ -65,6 +65,7 @@ $(OBJ_DIR)%.o :	$(SRC_DIR)%.c | $(OBJ_DIR)
 > - Mais dis moi Jamy c'est quoi ce `|` dans ton Makefile ?
 > - Bonne question Fred ! Il s'agit d'un pré-requis **order-only**. La règle est appelé seulement si le fichier n'existe pas. Dans le cas où le fichier existe (ici le dossier objs), on ne regarde pas le timestamp
 > - Merci Jamy !
+
 > FYI: https://www.gnu.org/software/make/manual/html_node/Prerequisite-Types.html
 
 Il est possible d'améliorer le fonctionnement en:
