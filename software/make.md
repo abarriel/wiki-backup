@@ -55,13 +55,13 @@ OBJS    = $(addprefix $(OBJ_DIR), $(SRCS:.c=.o))
 
 DIR     = $(sort $(dir $(OBJS)))
 
-$(NAME) :		$(OBJS)
+$(NAME): $(OBJS)
 	$(CC) -c $< -o $@
 
-$(DIR) :
+$(DIR):
 	mkdir -p $@
 
-$(OBJ_DIR)%.o :	$(SRC_DIR)%.c | $(DIR)
+$(OBJ_DIR)%.o: $(SRC_DIR)%.c | $(DIR)
 	$(CC) -c $< -o $@
 ```
 
@@ -77,7 +77,7 @@ $(OBJ_DIR)%.o :	$(SRC_DIR)%.c | $(DIR)
 ## Divers
 il peut être judicieux de mettre le Makefile en dépendances des règles de compilation. Ainsi, on assure qu'un changement manuel dans le Makefile sera immédiatement répercuté. Cela se fait de la façon suivante :
 ```
-$(NAME) :		$(OBJS) Makefile
+$(NAME): $(OBJS) Makefile
 	[...]
 %.o: %.c Makefile
 	[...]
