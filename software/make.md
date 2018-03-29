@@ -7,7 +7,7 @@ Une documentation assez classique: http://gl.developpez.com/tutoriel/outil/makef
 Un super poste sur le forum: https://forum.intra.42.fr/topics/85/messages?page=1#3640
 Si vous avez l'âme d'un warrior: https://www.gnu.org/software/make/manual/make.html
 
-Cette page ne reviens pas sur ces notions de bases.
+Cette page ne reviens pas sur ces notions de bases. Vous devriez déjà être capable de faire un Makefile basique, qui ne relink pas (y compris sur l'affichage), et qui inclut les règles de bases (all, $(NAME), clean, fclean, re)
 # Bonnes pratiques
 ## Accélerer la compilation
 Make dispose d'une option `-j [jobs], --jobs[=jobs]`. Le paramètre de l'option correspond au nombre de jobs et est facultatif. 
