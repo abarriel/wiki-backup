@@ -1,5 +1,5 @@
-<!-- TITLE: Ausland -->
-<!-- SUBTITLE: A quick summary of Ausland -->
+<!-- Ecoles soeurs et cousines -->
+<!-- SUBTITLE: A quick summary of là-bas -->
 
 ## Soeurs
 
