@@ -43,7 +43,7 @@ Toute discussion technique sur slack, demander une invitation à @abarriel @wesc
 	- [ ] cursus electronique
 	- [ ] stages
 
-- todo partenariats(/todo/partenariats)
+- [todo partenariats](/todo/partenariats)
 
 - les campus (Fremont)/ les ecoles cousines (101...)
 
