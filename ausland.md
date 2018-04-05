@@ -7,8 +7,8 @@
 - [] [?Asia?](/ausland/about-asia)
 
 ## Cousines
-- 101
+- le 101 @Lyon
+- ecole 19 @Bruxelles
 - Afrique du Sud
 - Roumanie
-- Belgique
 - Ukraine
