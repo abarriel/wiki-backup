@@ -8,7 +8,7 @@
 
 ## Cousines
 - le 101 @Lyon
-- ecole 19 @Bruxelles
+- [ecole19@Bruxelles](/ausland/ecole19)
 - Afrique du Sud
 - Roumanie
 - Ukraine
