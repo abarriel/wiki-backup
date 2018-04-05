@@ -23,7 +23,7 @@ Toute discussion technique sur slack, demander une invitation à @abarriel @wesc
 
 -----
 
-[Ecoles soeurs et cousines](/ausland)
+[ecoles soeurs et cousines](/ausland)
 # Roadmap Wiki42
 
 ## todo content
