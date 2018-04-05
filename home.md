@@ -45,7 +45,7 @@ Toute discussion technique sur slack, demander une invitation à @abarriel @wesc
 
 - [todo partenariats](/todo/partenariats)
 
-- les campus (Fremont)/ les ecoles cousines (101...)
+- [todo campus/ecoles cousines](/todo/ausland)
 
 - bouton anglais/francais/other languages ?
 ## todo technique
