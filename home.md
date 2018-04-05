@@ -48,3 +48,4 @@ Toute discussion technique sur slack, demander une invitation à @abarriel @wesc
 - [ ] historique des edits --> `wiki.js` 2.0 deja dans leur roadmap
 - [ ] "edited by @login" en haut de page
 - [ ] remplacer le logo `wiki.js` par un logo 42? sur ce genre de page => [test](/test)
+- [ ] remplacer le favicon par un logo 42? ou alors un logo custom comme a fait stud si un designer veut bien se chauffer!
