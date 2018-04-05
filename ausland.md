@@ -4,7 +4,7 @@
 ## Soeurs
 
 - [] [Fremont](/ausland/about-fremont)
-- [] ? Asia ?
+- [] [?Asia?](/ausland/about-asia)
 
 ## Cousines
 - 101
