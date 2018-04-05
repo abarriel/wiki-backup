@@ -19,5 +19,5 @@
 ## Matrices
 
 
-[META} Est-ce que le partenariat est recurrent ? Quel est son programme ? Si recurrence, liste d alumnis ? Comment s inscrire ? Quelle periode de l annee ? Temoignage d etudiants ? Competences acquises ? 
+[META] Est-ce que le partenariat est recurrent ? Quel est son programme ? Si recurrence, liste d alumnis ? Comment s inscrire ? Quelle periode de l annee ? Temoignage d etudiants ? Competences acquises ? 
 
