@@ -14,7 +14,7 @@ le Domaine de Latour de Freins (Bruxelles – Uccle, Engeland). Le campus compor
 
 ## Projets Spécifiques
 
-Ne sais pas.
+A renseigner.
 
 ## Site & Contact
 - site web(https://www.s19.be/)
