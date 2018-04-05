@@ -19,7 +19,9 @@ Toute discussion technique sur slack, demander une invitation à @abarriel @wesc
 
 -----
 
-:friends: [partenariats](/partenariats)
+[partenariats](/partenariats)
+
+-----
 # Roadmap Wiki42
 
 ## todo content
