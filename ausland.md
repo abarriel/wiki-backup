@@ -3,12 +3,12 @@
 
 ## Soeurs
 
-- [] [Fremont](/ausland/about-fremont)
-- [] [?Asia?](/ausland/about-asia)
+- [Fremont](/ausland/about-fremont)
+- [?Asia?](/ausland/about-asia)
 
 ## Cousines
 - [le101@Lyon](/ausland/le101)
 - [Ecole19@Bruxelles](/ausland/ecole19)
 - [WeThinkCode@SouthAfrica](/ausland/WeThinkCode)
 - [Academie+Plus](/ausland/Academie+Plus)
-- [UNITFactory@Ukrainia)(/ausland/UNITFactory)
+- [UNITFactory@Ukrainia](/ausland/UNITFactory)
