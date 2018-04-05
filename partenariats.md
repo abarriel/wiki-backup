@@ -10,3 +10,6 @@
 ## ESCP
 - [] [Option Entrepreneuriale](/partenariats/option-E)
 
+## ICART
+- [] [Conferences Histoire de l'art](/partenariats/conferences-icart)
+
