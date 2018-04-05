@@ -9,6 +9,6 @@
 ## Cousines
 - [le101@Lyon](/ausland/le101)
 - [Ecole19@Bruxelles](/ausland/ecole19)
-- Afrique du Sud
+- [WeThinkCode@SouthAfrica](/ausland/WeThinkCode)
 - Roumanie
 - Ukraine
