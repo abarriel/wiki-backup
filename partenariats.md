@@ -13,3 +13,5 @@
 ## ICART
 - [] [Conferences Histoire de l'art](/partenariats/conferences-icart)
 
+## Euridis
+- [] [Partenariat](/partenariats/random-partnership)
