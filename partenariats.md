@@ -22,7 +22,7 @@
 
 ## Project/Others
 
-- Louvres
+- Louvres/Capsules
 - LVMH
 - VentePrivee
 
