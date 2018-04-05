@@ -6,6 +6,8 @@
 
 ## Lieux et geolocalisation
 
+Ecole BornToCode situee a Cluj, Romania.
+
 ## Projet specifique
 
 ## Site & Contact
