@@ -22,6 +22,8 @@ Toute discussion technique sur slack, demander une invitation à @abarriel @wesc
 [partenariats, matrices et projects](/partenariats)
 
 -----
+
+[Ecoles soeurs et cousines](/ausland)
 # Roadmap Wiki42
 
 ## todo content
