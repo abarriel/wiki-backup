@@ -18,6 +18,8 @@ Toute discussion technique sur slack, demander une invitation à @abarriel @wesc
 :soccer: [clubs et associations](/campus-paris/clubs)
 
 -----
+
+[partenariats](/partenariats)
 # Roadmap Wiki42
 
 ## todo content
