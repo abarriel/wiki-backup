@@ -8,3 +8,5 @@
 - [] [Certificat Leadership](/partenariats/leadership) same as Digital Entrepeneur ?
 - [] [Academie Design Thinking](/partenariats/design-thinking)
 ## ESCP
+- [] [Option E](/partenariats/option-E)
+
